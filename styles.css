@@ -1,0 +1,37 @@
+html,body{
+    height: 29.7cm;
+    width: 21cm;
+    padding: 1.5cm 1.5cm 1.5cm 2.5cm;
+}
+h1 {
+    font-size: 20pt;
+}
+h2 {
+    font-size: 18pt;
+}
+h3 {
+    font-size: 16pt;
+}
+p {
+    font-size: 11pt;
+}
+p.headline-1 {
+    text-align: center;
+    font-size: 14pt;
+}
+p.headline-2 {
+    text-align: center;
+    font-size: 12pt;
+}
+.style-1 {
+    text-decoration: underline;
+}
+.image-1 {
+    float: left;
+    margin-right: 10px;
+}
+.image-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
