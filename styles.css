@@ -5,6 +5,7 @@ html,body{
 }
 h1 {
     font-size: 20pt;
+    text-align: center;
 }
 h2 {
     font-size: 18pt;
@@ -15,16 +16,30 @@ h3 {
 p {
     font-size: 11pt;
 }
-p.headline-1 {
+address {
+    font-style: italic;
     text-align: center;
     font-size: 14pt;
 }
 p.headline-2 {
+    font-weight: bold;
     text-align: center;
     font-size: 12pt;
 }
+.paragraphCenter {
+    text-align: center;
+}
+.paragraphRight {
+    text-align: right;
+}
 .style-1 {
     text-decoration: underline;
+}
+.textBold {
+    font-weight: bold;
+    }
+.textItalic {
+    font-style: italic;
 }
 .image-1 {
     float: left;
